@@ -97,7 +97,6 @@ Browset leverages the following technologies:
 3. **Install Dependencies**:
 
    ```bash
-   bashCopy code
    yarn
    ```
 
