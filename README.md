@@ -1,7 +1,5 @@
 # Browset
 
-# Browset
-
 Browset is an open-source web platform designed to configure environment variables for web frontends. It simplifies the process of managing environment-specific configurations, making it easier to deploy applications across different stages like UAT and Production without the need for complex implementation or rebuilds.
 
 ![Untitled](./screenshot/list.png)
